@@ -1,6 +1,6 @@
 # 🎮 SF6 Daily Move Bot
 
-A Discord bot that posts a random Street Fighter 6 move every day — complete with **frame data** and a **hitbox GIF** sourced from [Ultimate Frame Data](https://ultimateframedata.com/sf6/).
+A Discord bot that posts a random Street Fighter 6 move every day — complete with **frame data** and a **hitbox GIF** link from [Ultimate Frame Data](https://ultimateframedata.com/sf6/).
 
 ---
 
