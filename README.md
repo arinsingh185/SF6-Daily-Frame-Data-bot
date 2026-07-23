@@ -80,35 +80,6 @@ ANNOUNCE_MINUTE = 0    # Minute (0–59)
 
 ---
 
-## Adding More Moves
-
-Open `move_data.py` and add entries to the `SF6_MOVES` list:
-
-```python
-{
-    "character": "Ryu",
-    "name": "Crouching MP",
-    "input": "↓ + MP",
-    "startup": 5,
-    "active": 3,
-    "recovery": 11,
-    "on_hit": "+7",
-    "on_block": "+3",
-    "damage": "600",
-    "cancel_options": "Special, Super Art",
-    "notes": "Ryu's cr.MP is a great combo starter and pressure button.",
-    "hitbox_gif": "https://ultimateframedata.com/hitboxes/sf6/ryu/crmp.gif",
-},
-```
-
-### Finding Hitbox GIF URLs
-
-1. Visit [ultimateframedata.com/sf6/\<character\>](https://ultimateframedata.com/sf6/)
-2. Find the move and right-click the hitbox GIF → **Copy Image Address**
-3. Paste it as the `hitbox_gif` value
-
----
-
 ## Hosting Options
 
 | Option | Cost | Notes |
