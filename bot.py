@@ -38,6 +38,7 @@ CHAR_COLOURS = {
     "Akuma": 0x880E4F,   "M.Bison": 0x6A1A9A,  "Terry": 0xD32F2F,
     "Mai": 0xF06292,     "Elena": 0x00ACC1,    "Ingrid": 0xCE93D8,
     "Alex": 0x26A69A,    "Sagat": 0xF57F17,    "C.Viper": 0xE53935,
+    "Yasmine": 0xE6E6FA,
 }
 
 #Helpers
